@@ -1,5 +1,3 @@
-# README.md  
-
 ## Expression Parser with Assembly Code Generation  
 
 ### 📌 Overview  
